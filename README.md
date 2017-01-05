@@ -1,2 +1,4 @@
 # Hello-world
-Just another description
+
+Hi everybody!
+I'm studying about automatic differentiation.
